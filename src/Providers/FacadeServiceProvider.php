@@ -3,7 +3,7 @@ namespace KnowThat\Test\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-use KnowThat\Logics\{
+use KnowThat\Test\Logics\{
     TestLogic
 };
 

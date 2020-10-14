@@ -1,6 +1,5 @@
 <?php
-
-namespace KnowThat\Facades;
+namespace KnowThat\Test\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

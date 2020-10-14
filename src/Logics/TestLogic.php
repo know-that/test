@@ -1,5 +1,5 @@
 <?php
-namespace KnowThat\Logics;
+namespace KnowThat\Test\Logics;
 
 class TestLogic
 {
