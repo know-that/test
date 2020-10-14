@@ -29,10 +29,10 @@
     },
     "laravel": {
       "providers": [
-        "KnowThat\\Providers\\FacadeServiceProvider"
+        "KnowThat\\Test\\Providers\\FacadeServiceProvider"
       ],
       "aliases": {
-        "Debugbar": "KnowThat\\Facades"
+        "Debugbar": "KnowThat\\Test\\Facades"
       }
     }
   }

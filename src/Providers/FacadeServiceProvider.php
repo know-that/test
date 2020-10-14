@@ -1,5 +1,5 @@
 <?php
-namespace KnowThat\Providers;
+namespace KnowThat\Test\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

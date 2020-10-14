@@ -1,5 +1,5 @@
 <?php
-namespace KnowThat\Test;
+namespace KnowThat;
 
 use KnowThat\Facades\Test as TestFacade;
 
