@@ -1,6 +1,7 @@
 {
   "name": "know-that/test",
   "description": "a test",
+  "keywords": ["laravel", "php", "test"],
   "type": "library",
   "authors": [
     {
