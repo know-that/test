@@ -1,0 +1,8 @@
+{
+  "name": "know-that/test",
+  "description": "a test",
+  "require": {
+    "php": "^7.2",
+    "laravel/framework": "^6.0"
+  }
+}
