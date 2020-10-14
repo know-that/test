@@ -1,8 +1,23 @@
 {
   "name": "know-that/test",
   "description": "a test",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Wang Feiyang",
+      "email": "feiyang0508@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  
   "require": {
     "php": "^7.2",
     "laravel/framework": "^6.0"
-  }
+  },
+  
+  "autoload": {
+    "psr-4": {
+      "KnowThat\\Test\\": "src"
+    }
+  },
 }
