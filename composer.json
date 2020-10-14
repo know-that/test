@@ -19,5 +19,11 @@
     "psr-4": {
       "KnowThat\\Test\\": "src"
     }
+  },
+  
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
   }
 }
