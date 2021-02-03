@@ -45,4 +45,4 @@ class IndexController extends Controller
 ### License
 know-that test is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-Copyright 2020 Wang Feiyang
+Copyright 2020 [Floret](https://github.com/know-that)
